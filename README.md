@@ -12,5 +12,5 @@ Output
  [Apache 2.0] (https://www.apache.org/licenses/LICENSE-2.0)
  
 ## Author
-IBM
+Valeria by Final Project Getting Started with Git and GitHub
 
